@@ -1,0 +1,8 @@
+ getgenv().SelectedPart = "Torso"
+getgenv().VisibiltyCheck = false
+getgenv().TargetESP = true
+getgenv().FOV = 95
+getgenv().CircleVisibility = true
+getgenv().Distance = 500
+getgenv().wallcheck = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AgentHub/Silentaim/main/penis", true))()
